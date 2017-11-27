@@ -43,14 +43,14 @@ section {
 }
 #Contact{
     padding-top:50px;
-    background: #53a1c46d;
+    background: #B7D7E5;
 }
 #intro, #PearlCelPrize{
-    background:#a85f69ff;
+    background:#A75F69;
 }
 #About{
     padding-top: 50px;
-    background:#53a1c4ff;
+    background:#56A1C2;
 }
 #sponsors, #bugs, #PearlCelPrize{
      padding-top: 0px;
@@ -63,7 +63,7 @@ section {
     padding-top:50px;
 }
 #bugs{
-    background:#53a1c4ff;
+    background:#56A1C2;
     padding-bottom: 25px;
 }
 #bugs h3{
@@ -71,7 +71,7 @@ section {
 }
 #Features{
     padding-top: 100px;
-    background:#a9c799ff;
+    background:#AAC69B;
 }
 #Documentation{
     padding-top: 100px;
